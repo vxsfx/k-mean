@@ -86,3 +86,5 @@ if __name__ == "__main__":
     k_points = k_mean(data, 20, 4)
 
     #graph(data, k_points)
+    #TODO
+    # use perpendicullar grad between k_points (for better k distribution)
