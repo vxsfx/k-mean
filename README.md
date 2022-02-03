@@ -1,2 +1,2 @@
 # k-mean
-#fix kmean
+#fix kmean- (use balanced system-(same number points assigned to each k-point))
